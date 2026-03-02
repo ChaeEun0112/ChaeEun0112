@@ -8,7 +8,7 @@
 ## 🌳Work Tools 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white"/> <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=NOTION&logoColor=white"/>
 ## 🎓Education
-- 가천대학교 컴퓨터공학전공 (2026.03 ~ )
+- **가천대학교 컴퓨터공학전공** (2026.03 ~ )
 ## 🪪Certificate
 
 ## 💌Contact
