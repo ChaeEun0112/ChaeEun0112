@@ -1,4 +1,4 @@
-## Hello, I"m ChaeEun 👋
+## <div align="center">Hello, I"m ChaeEun 👋</div>
 
 <!--
 **ChaeEun0112/ChaeEun0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
