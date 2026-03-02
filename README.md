@@ -1,6 +1,7 @@
 ## <div align="center"> Hello, I"m ChaeEun👋</div>
 
-## <div align="center">  </div>
+## 🌱 Tech
+
 ## 🌳 Work Tools 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <!--
