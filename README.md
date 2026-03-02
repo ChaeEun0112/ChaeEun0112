@@ -1,4 +1,5 @@
 <img src="https://img.shields.io/badge/eun011261@gmail.com-EA4335?style=flat-square&logo=GMAIL&logoColor=white"/> <img src="https://img.shields.io/badge/INSTAGRAM-FF0069?style=flat-square&logo=InSTAGRAM&logoColor=white"/>
+
 🖐️Hi I'm ChaeEun
 ## 🌱Tech
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/> <img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=flat-square&logo=Node.JS&logoColor=white"/> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/> 
