@@ -5,6 +5,7 @@
 ## 🌳 Work Tools 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white"/> <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=NOTION&logoColor=white"/>
 ## 📊GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ChaeEun0112&theme=vue&show_icons=true"/></a>
 </p>
