@@ -1,5 +1,5 @@
 ***
-<h1>💌Social</h1>
+## 💌Social
 <img src="https://img.shields.io/badge/eun011261@gmail.com-EA4335?style=flat-square&logo=GMAIL&logoColor=white"/> <img src="https://img.shields.io/badge/INSTAGRAM-FF0069?style=flat-square&logo=InSTAGRAM&logoColor=white"/>
 ***
 ## 🎓Education
