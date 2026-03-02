@@ -1,8 +1,8 @@
-## Hi I'm ChaeEun🖐️
+## 🖐️Hi I'm ChaeEun
 <img src="https://img.shields.io/badge/eun011261@gmail.com-EA4335?style=flat-square&logo=GMAIL&logoColor=white"/> <img src="https://img.shields.io/badge/INSTAGRAM-FF0069?style=flat-square&logo=InSTAGRAM&logoColor=white"/>
-## 🌱 Tech
+## 🌱Tech
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/> <img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=flat-square&logo=Node.JS&logoColor=white"/> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/> 
-## 🌳 Work Tools 
+## 🌳Work Tools 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white"/> <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=NOTION&logoColor=white"/>
 <!--
 **ChaeEun0112/ChaeEun0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
