@@ -1,9 +1,9 @@
 ## <div align="center"> Hello, I"m ChaeEun👋</div>
 
 ## 🌱 Tech
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
 ## 🌳 Work Tools 
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white"/> <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=NOTION&logoColor=white"/>
 <!--
 **ChaeEun0112/ChaeEun0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
