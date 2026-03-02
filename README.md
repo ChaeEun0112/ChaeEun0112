@@ -11,8 +11,8 @@
 - **가천대학교 컴퓨터공학전공** (2026.03 ~ )
 ## 🪪Certificate
 | Certification    | Date of Acquilstion                                   | Certifiying Organization       |
-| ---------- | ---------------------------------------------- |---------------------------------------------|
-| Mos Master | 2024.1.2 | Microsoft|
+| ------------   | --------------------------                                | ------------------------      |
+| :Mos Master:| :2024.1.2: | :Microsoft: |
 ## 💌Contact
 <img src="https://img.shields.io/badge/kce112@naver.com-03C75A?style=flat-square&logo=NAVER&logoColor=white"/> <img src="https://img.shields.io/badge/eun011261@gmail.com-EA4335?style=flat-square&logo=GMAIL&logoColor=white"/> <img src="https://img.shields.io/badge/INSTAGRAM-FF0069?style=flat-square&logo=InSTAGRAM&logoColor=white"/>
 
