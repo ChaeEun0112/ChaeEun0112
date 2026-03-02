@@ -1,5 +1,5 @@
 ## <div align="center"> Hello, I"m ChaeEun👋</div>
-
+https://m.blog.naver.com/pangramer/222505576100?view=img_64
 ## 🌱 Tech
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/> <img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=flat-square&logo=Node.JS&logoColor=white"/> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/> 
 ## 🌳 Work Tools 
