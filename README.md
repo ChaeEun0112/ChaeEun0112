@@ -15,5 +15,8 @@
 |  <div align="center">Mos Master</div> |  <div align="center">2024.1.2</div>  |  <div align="center">Microsoft</div>  |
 
 ## 💌Contact
-<img src="https://img.shields.io/badge/kce112@naver.com-03C75A?style=flat-square&logo=NAVER&logoColor=white"/> <img src="https://img.shields.io/badge/eun011261@gmail.com-EA4335?style=flat-square&logo=GMAIL&logoColor=white"/> <img src="https://img.shields.io/badge/INSTAGRAM-FF0069?style=flat-square&logo=InSTAGRAM&logoColor=white"/>
+📧 kce112@naver.com  
+📧 eun011261@gmail.com  
+📷 Instagram  
+📂 Portfolio (GitHub)
 
