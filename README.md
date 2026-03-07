@@ -22,6 +22,4 @@
 📧 kce112@naver.com  
 📧 eun011261@gmail.com  
 📷 Instagram  
-📂 Portfolio (GitHub)
-
-https://github.com/ChaeEun0112
+📂 [Portfolio (GitHub)](https://github.com/ChaeEun0112)
