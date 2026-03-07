@@ -3,15 +3,10 @@
 </p>
 
 *** 
-## 🌱 Tech
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-## 🎨 Design & Tools
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+## 🌱Tech
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+## 🎨Design & Tools
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 ## 🌳Work Tools 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white"/> <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=NOTION&logoColor=white"/>
 ## 🎓Education
