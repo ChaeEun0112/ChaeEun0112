@@ -10,7 +10,7 @@
 ## 🎓Education
 - **가천대학교 컴퓨터공학전공** (2026.03 ~ )
 ## 🪪Certificate
-| Certification    | Date of Acquisition                                   | Certifying Organization       |
+| <div align="center">Certification</div>   | <div align="center">Date of Acquisition </div> | <div align="center">Certifying Organization</div>       |
 | ------------   | --------------------------                                | ------------------------      |
 |  <div align="center">Mos Master</div> |  <div align="center">2024.1.2</div>  |  <div align="center">Microsoft</div>  |
 
