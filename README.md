@@ -12,7 +12,7 @@
 ## 🎨Design & Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 ## 🎓Education
-- **가천대학교 컴퓨터공학전공** (2026.03 ~ 재학중 )
+- **가천대학교 컴퓨터공학전공** (2026.03 ~ Present )
 ## 🪪Certificate
 | <div align="center">Certification</div>   | <div align="center">Date of Acquisition </div> | <div align="center">Certifying Organization</div>       |
 | ------------   | --------------------------                                | ------------------------      |
