@@ -1,7 +1,10 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20ChaeEun&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
-
+## 👋About Me
+👩‍💻 Computer Science Student at Gachon University  
+🎨 Interested in Web UI/UX Design  
+🌱 Currently learning Frontend Development
 *** 
 ## 🌱Tech
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -20,3 +23,4 @@
 📷 Instagram  
 📂 Portfolio (GitHub)
 
+https://github.com/ChaeEun0112
