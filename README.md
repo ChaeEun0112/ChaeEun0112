@@ -21,5 +21,5 @@
 ## 💌Contact
 📧 kce112@naver.com  
 📧 eun011261@gmail.com  
-📷 Instagram  
+📷 [Instagram](https://instagram.com/112_2.9kg)  
 📂 [Portfolio (GitHub)](https://github.com/ChaeEun0112)
