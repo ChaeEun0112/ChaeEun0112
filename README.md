@@ -5,7 +5,7 @@
 ## 👋 About Me
 
 👩‍💻 Computer Science Student at Gachon University
-🎨 Interested in Web UI/UX Design
+🎨 Interested in Web UI/UX Design 
 🌱 Currently learning Frontend Development
 
 ---
@@ -22,9 +22,6 @@
 
 * **1st Place / Grand Prize – Leets, Job.is Project**
 
-  * AI-powered personalized career curation service
-  * Role: **UI/UX Design**
-  * Designed the brand identity, design system, component library, and web UI
 
 ## 🎓 Education
 
