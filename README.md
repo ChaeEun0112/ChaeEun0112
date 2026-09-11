@@ -2,24 +2,44 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20ChaeEun&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
-## 👋About Me
-👩‍💻 Computer Science Student at Gachon University  
-🎨 Interested in Web UI/UX Design  
-🌱 Currently learning Frontend Development
-*** 
-## 🛠️Tech
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-## 🎨Design & Tools
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeXD-EE3984?style=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-## 🎓Education
-- **Gachon University – Computer Science** (2026.03 ~ Present)
-## 🪪Certificate
-| <div align="center">Certification</div>   | <div align="center">Date of Acquisition </div> | <div align="center">Certifying Organization</div>       |
-| ------------   | --------------------------                                | ------------------------      |
-|  <div align="center">Mos Master</div> |  <div align="center">2024.1.2</div>  |  <div align="center">Microsoft</div>  |
+## 👋 About Me
 
-## 💌Contact
-📧 kce112@naver.com  
-📧 eun011261@gmail.com  
-📷 [Instagram](https://instagram.com/112_2.9kg)  
+👩‍💻 Computer Science Student at Gachon University
+🎨 Interested in Web UI/UX Design
+🌱 Currently learning Frontend Development
+🏆 **Awarded 1st Place (Grand Prize) in Leets with the Job.is Project**
+
+---
+
+## 🛠️ Tech
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
+## 🎨 Design & Tools
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeXD-EE3984?style=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+
+## 🏆 Awards
+
+* **1st Place / Grand Prize – Leets, Job.is Project**
+
+  * AI-powered personalized career curation service
+  * Role: **UI/UX Design**
+  * Designed the brand identity, design system, component library, and web UI
+
+## 🎓 Education
+
+* **Gachon University – Computer Science** (2026.03 ~ Present)
+
+## 🪪 Certificate
+
+| <div align="center">Certification</div> | <div align="center">Date of Acquisition</div> | <div align="center">Certifying Organization</div> |
+| :-------------------------------------: | :-------------------------------------------: | :-----------------------------------------------: |
+|   <div align="center">MOS Master</div>  |       <div align="center">2024.1.2</div>      |        <div align="center">Microsoft</div>        |
+
+## 💌 Contact
+
+📧 [kce112@naver.com](mailto:kce112@naver.com)
+📧 [eun011261@gmail.com](mailto:eun011261@gmail.com)
+📷 [Instagram](https://instagram.com/112_2.9kg)
 📂 [Portfolio (GitHub)](https://github.com/ChaeEun0112)
