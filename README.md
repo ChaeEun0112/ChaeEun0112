@@ -1,11 +1,11 @@
-<p align='center'>
+<p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20ChaeEun&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
 ## 👋 About Me
 
 👩‍💻 Computer Science Student at Gachon University
-🎨 Interested in Web UI/UX Design 
+🎨 Interested in Web UI/UX Design
 🌱 Currently learning Frontend Development
 
 ---
@@ -18,20 +18,27 @@
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeXD-EE3984?style=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
+---
+
 ## 🏆 Awards
 
 * **1st Place / Grand Prize – Leets, Job.is Project**
 
+---
 
 ## 🎓 Education
 
 * **Gachon University – Computer Science** (2026.03 ~ Present)
+
+---
 
 ## 🪪 Certificate
 
 | <div align="center">Certification</div> | <div align="center">Date of Acquisition</div> | <div align="center">Certifying Organization</div> |
 | :-------------------------------------: | :-------------------------------------------: | :-----------------------------------------------: |
 |   <div align="center">MOS Master</div>  |       <div align="center">2024.1.2</div>      |        <div align="center">Microsoft</div>        |
+
+---
 
 ## 💌 Contact
 
