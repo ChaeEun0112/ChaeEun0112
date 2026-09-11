@@ -7,7 +7,6 @@
 👩‍💻 Computer Science Student at Gachon University
 🎨 Interested in Web UI/UX Design
 🌱 Currently learning Frontend Development
-🏆 **Awarded 1st Place (Grand Prize) in Leets with the Job.is Project**
 
 ---
 
