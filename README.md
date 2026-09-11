@@ -14,7 +14,7 @@
 ## 🎓Education
 - **Gachon University – Computer Science** (2026.03 ~ Present)
 ## 🏆Awards
-- 1st Place / Grand Prize – Leets, Job.is Project
+- **1st Place / Grand Prize – Leets, Job.is Project**
 ## 🪪Certificate
 | <div align="center">Certification</div>   | <div align="center">Date of Acquisition </div> | <div align="center">Certifying Organization</div>       |
 | ------------   | --------------------------                                | ------------------------      |
