@@ -25,4 +25,4 @@
 📧 eun011261@gmail.com  
 📷 [Instagram](https://instagram.com/112_2.9kg)  
 📂 [Portfolio (GitHub)](https://github.com/ChaeEun0112)
->> 동아리(Leets)에서 프로젝트 Job.is로 최우수상(1등)한 것도 포함시켜 프로필 작성해줘
+
