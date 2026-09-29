@@ -23,8 +23,8 @@
 - **Gachon University – Computer Science** (2026.03 ~ Present)
 
 ## 🏃 Activities
-- **Leets 7기** — UI/UX Designer  (2026.03 ~ 2026.08)
-- **Leets 8기** — Design Operations & Frontend (2026.08 ~ Present)
+- **IT 창업 동아리 Leets 7기** — UI/UX Designer  (2026.03 ~ 2026.08)
+- **IT 창업 동아리 Leets 8기** — Design Operations & Frontend (2026.08 ~ Present)
 
 ## 🏆 Awards
 - **1st Place / Grand Prize – Leets, Job.is Project**
