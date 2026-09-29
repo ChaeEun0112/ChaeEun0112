@@ -13,6 +13,9 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeXD-EE3984?style=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 ## 🎓Education
 - **Gachon University – Computer Science** (2026.03 ~ Present)
+## 🏃Activities
+- **Leets 7기** — UI/UX Designer
+- **Leets 8기** — Design Operations & Frontend
 ## 🏆Awards
 - **1st Place / Grand Prize – Leets, Job.is Project**
 ## 🪪Certificate
